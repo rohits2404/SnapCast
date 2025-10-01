@@ -4,8 +4,8 @@
             <img src="public/readme/hero.jpg" alt="Project Banner">
         </a>
     <br />
-
-    ### Full Stack Screen Recording & Video Sharing Platform
+    <div></div>
+    <h3 align="center">Full Stack Screen Recording & Video Sharing Platform</h3>
 </div>
 
 ## 📋 <a name="table">Table of Contents</a>
