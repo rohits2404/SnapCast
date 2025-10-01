@@ -1,0 +1,6 @@
+{
+  "databaseURL": "https://Rohit-Sharma-s-workspace-1hpta5.ap-southeast-2.xata.sh/db/loomdb",
+  "codegen": {
+    "output": "src/xata.ts"
+  }
+}
