@@ -5,7 +5,7 @@
         </a>
     <br />
 
-    <h3 align="center">Full Stack Screen Recording & Video Sharing Platform</h3>
+    ### Full Stack Screen Recording & Video Sharing Platform
 </div>
 
 ## 📋 <a name="table">Table of Contents</a>
