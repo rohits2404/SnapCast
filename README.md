@@ -5,12 +5,6 @@
         </a>
     <br />
 
-    <div>
-        <img src="https://img.shields.io/badge/-Next.JS-black?style=for-the-badge&logoColor=white&logo=nextdotjs&color=black" alt="next.js" />
-        <img src="https://img.shields.io/badge/Bunny.net-F47326?style=for-the-badge&logo=bunnyvideo&logoColor=white">
-        <img src="https://img.shields.io/badge/-Tailwind-00BCFF?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-    </div>
-
     <h3 align="center">Full Stack Screen Recording & Video Sharing Platform</h3>
 </div>
 
